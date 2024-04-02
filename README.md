@@ -1,10 +1,9 @@
 # QQ_CDAC_Prakhar_Khare-
 
 import React from 'react';
-import './App.css'; // Assuming you have CSS files in your project
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'; // Import FontAwesomeIcon from the react-fontawesome library
-
+import './App.css'; 
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'; 
 function App() {
   return (
     <div id="outer">
@@ -98,9 +97,8 @@ export default BannerSection;
  
 import React from 'react';
 import './App.css'; // Assuming you have CSS files in your project
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
-import BannerSection from './BannerSection'; // Import the BannerSection component
-
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import BannerSection from './BannerSection'; 
 function App() {
   return (
     <div id="outer">
@@ -172,9 +170,8 @@ export default WorkSection;
 
 import React from 'react';
 import './App.css'; // Assuming you have CSS files in your project
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
-import WorkSection from './WorkSection'; // Import the WorkSection component
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import WorkSection from './WorkSection'; 
 function App() {
   return (
     <div id="outer">
@@ -244,9 +241,8 @@ export default GallerySection;
 
 import React from 'react';
 import './App.css'; // Assuming you have CSS files in your project
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
-import GallerySection from './GallerySection'; // Import the GallerySection component
-
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import GallerySection from './GallerySection'; 
 function App() {
   return (
     <div id="outer">
@@ -377,8 +373,8 @@ export default ContactSection;
 
 import React from 'react';
 import './App.css'; // Assuming you have CSS files in your project
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
-import ContactSection from './ContactSection'; // Import the ContactSection component
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import ContactSection from './ContactSection'; 
 
 function App() {
   return (
@@ -427,9 +423,8 @@ export default Footer;
 
 import React from 'react';
 import './App.css'; // Assuming you have CSS files in your project
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
-import ContactSection from './ContactSection'; // Import the ContactSection component
-
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import ContactSection from './ContactSection'; 
 function App() {
   return (
     <div id="outer">
